@@ -39,6 +39,6 @@ CSS3 (with variables, gradients, and transitions)
 JavaScript (Vanilla for interactivity)
 
 ## 🔗 Project Links
-🔴 Live Demo: your-deployed-link
+🔴 Live Demo: [YatriSathi](https://shreya211149.github.io/Travelling-Website/)
 
-💻 GitHub Repo: your-github-url
+💻 GitHub Repo: [Travel-Booking-Website](https://github.com/Shreya211149/Travelling-Website)
