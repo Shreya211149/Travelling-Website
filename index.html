@@ -108,6 +108,14 @@
     function closeForm() {
       bookingForm.style.display = "none";
     }
+
+    bookingForm.addEventListener("submit", function (e) {
+    e.preventDefault(); // Stops page reload
+    alert("🎉 Thanks for booking with YatriHub! Get ready to explore.");
+    closeForm();
+    form.reset();
+  });
+
   </script>
 
 </body>
